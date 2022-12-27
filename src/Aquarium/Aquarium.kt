@@ -12,4 +12,9 @@ package Aquarium
             height = (value * 100) / (width * length)
         }
     var water = volume * 0.9
+     constructor(numberOfFish: Int): this() {
+        val water = numberOfFish * 2000  // cm3
+         val tank = water + water * 0.1
+          height = (tank / (length * width)).toInt()
+     }
 }
