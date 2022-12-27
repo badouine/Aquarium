@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec758ca4-9293-4283-8a44-8919f74169f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AquariumTwo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aquarium/Aquarium.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aquarium/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aquarium/Aquarium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aquarium/Aquarium.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aquarium/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aquarium/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
