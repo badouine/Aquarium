@@ -10,13 +10,10 @@ class Shark: AquariumFish(), FishAction {
     }
 }
 
-class Plecostomus: AquariumFish(), FishAction {
+/*class Plecostomus: AquariumFish(), FishAction {
     override val color = "gold"
     override fun eat() {
         println("munch on algae")
     }
-}
+}*/
 
-interface FishAction {
-    fun eat()
-}

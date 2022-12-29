@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec758ca4-9293-4283-8a44-8919f74169f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Aquarium/inheritance.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Aquarium/AquariumFish.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aquarium/AquariumFish.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Aquarium/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aquarium/main.kt" afterDir="false" />
@@ -28,7 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JTNOXeoatixlZ6l77eOlheyyUT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
