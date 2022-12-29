@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec758ca4-9293-4283-8a44-8919f74169f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aquarium/inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aquarium/Decorations/Decorations.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aquarium/AquariumFish.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aquarium/AquariumFish.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aquarium/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aquarium/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.DecorationsKt">
+    <configuration name="DecorationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aquarium.Decorations.DecorationsKt" />
+      <module name="AquariumTwo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aquarium.MainKt" />
       <module name="AquariumTwo" />
@@ -55,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DecorationsKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
